@@ -4,7 +4,7 @@ const birthdayText = document.getElementById("birthdayText");
 const birthdayMusic = document.getElementById("birthdayMusic");
 
 const texts = [
-  "Chúc em Dương tuổi mới thật nhiều niềm vui, năm sau đỗ Nguyễn Tất Thành 🥳🔥",
+  "Chúc em Dương tuổi mới thật nhiều niềm vui, năm sau đỗ trường cấp 3 mà mình mong muốn nha 🥳🔥",
   "Học kỳ tới auto điểm cao, đạt nhiều giải cao 😎✨",
   "Sinh nhật thì quẩy banh nóc, quà nhận không kịp đếm, deadline tự né ra cho em chill tẹt ga 🎁🎉"
 ];
